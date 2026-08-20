@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sound>
+	<martinhorn>
+		<enabled>true</enabled>
+		<soundFile>martinshorn.wav</soundFile>
+		<volume>0.8</volume>
+		<pitch>1.0</pitch>
+		<distance>100</distance>
+		<doppler>true</doppler>
+		<trigger>
+			<key>SPECIAL_1</key>
+			<action>toggle</action>
+		</trigger>
+	</martinhorn>
+</sound>
