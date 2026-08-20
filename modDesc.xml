@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="78">
+	<author>Mirco1214</author>
+	<version>1.0.0</version>
+	<title>Fendt 1050 Feuerwehr Mittelberg</title>
+	<description>Fendt 1050 Traktor im Feuerwehr-Design der Mittelberger Feuerwehr mit animiertem Blaulicht und Martinshorn Soundeffekt.</description>
+	<iconFilename>modIcon.dds</iconFilename>
+	<multiplayer supported="true"/>
+	<storeItems>
+		<storeItem xmlFilename="vehicles/fendt1050_fw/fendt1050_fw.xml"/>
+	</storeItems>
+	<inputBindings/>
+</modDesc>
